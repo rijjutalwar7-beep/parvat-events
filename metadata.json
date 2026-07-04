@@ -1,0 +1,6 @@
+{
+  "name": "Event Planner Services",
+  "description": "A sophisticated event planning interface with service listings, intelligent search, and formal inquiry submission.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
